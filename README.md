@@ -54,5 +54,12 @@ To explore real-world Spotify track data and derive business-critical insights u
 
 ---
 
+## 🎯 Business Goals
+
+- Understand streaming performance across artists and tracks.
+- Identify the most engaging music content types.
+- Discover hidden trends in audio features, duration, and platforms.
+- Develop a composite popularity score to rank songs beyond raw views.
+
 📌 **Author**
 - Prathmesh Udanshiv
