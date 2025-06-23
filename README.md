@@ -65,3 +65,15 @@ To explore real-world Spotify track data and derive business-critical insights u
 
 📌 **Author**
 - Prathmesh Udanshiv
+
+---
+
+## 📸 Sample Outputs
+
+![image](https://github.com/user-attachments/assets/7bebb913-7ca9-455b-b5b2-4d9f7cad7c41)
+
+![image](https://github.com/user-attachments/assets/d6f07b1f-ef9c-40c6-aed7-056bb323daf4)
+
+![image](https://github.com/user-attachments/assets/30e9ad38-dd80-4935-ab73-c03a1aab4904)
+
+---
