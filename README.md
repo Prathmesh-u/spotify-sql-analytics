@@ -1,6 +1,6 @@
 # 🎵 Spotify SQL Analytics Project
 
-Analyze music industry trends using SQL — from the most streamed tracks and artists to engagement, platform performance, and audio profiles.
+Analyzed music industry trends using SQL, from the most streamed tracks and artists to engagement, platform performance, and audio profiles.
 
 ---
 
@@ -46,7 +46,7 @@ To explore real-world Spotify track data and derive business-critical insights u
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 - Dataset includes **only top 10 tracks per artist**.
 - Most tracks are sourced from **Spotify + YouTube** only.
@@ -54,7 +54,7 @@ To explore real-world Spotify track data and derive business-critical insights u
 
 ---
 
-## 🎯 Business Goals
+## Business Goals
 
 - Understand streaming performance across artists and tracks.
 - Identify the most engaging music content types.
